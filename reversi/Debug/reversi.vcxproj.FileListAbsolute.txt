@@ -1,0 +1,4 @@
+C:\Users\The Levi\source\repos\reversi\Debug\reversi.exe
+C:\Users\The Levi\source\repos\reversi\Debug\reversi.pdb
+C:\Users\The Levi\source\repos\reversi_done\reversi\reversi\Debug\reversi.exe
+C:\Users\The Levi\source\repos\reversi_done\reversi\reversi\Debug\reversi.pdb

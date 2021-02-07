@@ -1,0 +1,3 @@
+﻿  board.c
+C:\Users\The Levi\source\repos\reversi_done\reversi\reversi\board.c(192): warning C4715: 'Move': not all control paths return a value
+  reversi.vcxproj -> C:\Users\The Levi\source\repos\reversi_done\reversi\reversi\Debug\reversi.exe
